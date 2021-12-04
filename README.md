@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, Im Oliver!
+## Hello, I'm Oliver!
 
 I am currently a student at DePaul University in Chicago.
 - Majoring in Sound Design at The Theatre School
 - Minor in Network Technology and Security
+
+---
+
+## Here is my recent actions on GitHub!
+[GitHub Stats!](https://github-readme-stats.vercel.app/api?username=oliv10&show_icons=true&hide_border=true)
