@@ -22,4 +22,4 @@ I am currently a student at DePaul University in Chicago.
 ---
 
 ## Here is my recent actions on GitHub!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliv10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliv10&show_icon=true&count_private=true&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
