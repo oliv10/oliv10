@@ -1,6 +1,6 @@
 # Hello, I am Oliver!
 
-## Currently a student at DePaul University in Chicago, IL.
+I am currently a student at DePaul University in Chicago, IL.
 - Majoring in Sound Design at The Theatre School
 - Minor in Network Technology and Security
 
