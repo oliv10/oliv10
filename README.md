@@ -19,7 +19,7 @@ I am currently a student at DePaul University in Chicago, IL.
 - Majoring in Sound Design at The Theatre School
 - Minor in Network Technology and Security
 
-#### Hobbies
+### Hobbies
 - Working on my 1999 BMW E46
 - Building out my HomeLab
 - Playing Video Games with Friends
