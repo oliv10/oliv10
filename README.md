@@ -4,6 +4,10 @@
 - Majoring in Sound Design at The Theatre School
 - Minor in Network Technology and Security
 
+### Current Projects
+- [Scotten Sound Site](https://github.com/Scotten-Labs/Scotten-Sound-Site)
+- [Is Alive](https://github.com/Scotten-Labs/Is-Alive)
+
 ### Hobbies
 - Working on my 1999 BMW E46
 - Building out my HomeLab
