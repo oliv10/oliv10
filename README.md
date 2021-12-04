@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Oliver!
 
-I am currently a student at DePaul University in Chicago.
+I am currently a student at DePaul University in Chicago, IL.
 - Majoring in Sound Design at The Theatre School
 - Minor in Network Technology and Security
 
