@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **oliv10/oliv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello, Im Oliver!
+
+I am currently a student at DePaul University in Chicago.
+- Majoring in Sound Design at The Theatre School
+- Minor in Network Technology and Securty
