@@ -22,4 +22,4 @@ I am currently a student at DePaul University in Chicago.
 ---
 
 ## Here is my recent actions on GitHub!
-<img align="left" alt="oliv10's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oliv10&show_icons=true&hide_border=true" />
+<img align="left" alt="oliv10's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oliv10&show_icons=true" />
