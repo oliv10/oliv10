@@ -35,5 +35,5 @@ I am currently a student at DePaul University in Chicago, IL.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv10&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=revi99@me.com)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliv10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
