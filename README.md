@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Oliver!
+# Hello, I am Oliver!
 
 I am currently a student at DePaul University in Chicago, IL.
 - Majoring in Sound Design at The Theatre School
