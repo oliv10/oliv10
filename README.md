@@ -1,8 +1,6 @@
 # Hello, I am Oliver!
 
-I am currently a student at DePaul University in Chicago, IL.
-- Majoring in Sound Design at The Theatre School
-- Minor in Network Technology and Security
+I am currently a student at DePaul University in Chicago, IL. I am working towards a major in Sound Design at The Theatre School with minor in Network Technology and Security from the CDM.
 
 ### Current Projects
 - [Scotten Sound Site](https://github.com/Scotten-Labs/Scotten-Sound-Site)
