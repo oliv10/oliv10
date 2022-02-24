@@ -23,5 +23,3 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv10&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliv10&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oliver-p-scotten" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/oliver-p-scotten?trk=profile-badge">Oliver S.</a></div>
