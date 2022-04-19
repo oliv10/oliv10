@@ -4,6 +4,7 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 
 ### Current Projects
 - [Scotten Sound Site](https://github.com/Scotten-Labs/Scotten-Sound-Site)
+- [Bonanza Bot](https://github.com/Scotten-Labs/Bonanza-Bot)
 - [Is Alive](https://github.com/Scotten-Labs/Is-Alive)
 
 ### Hobbies
