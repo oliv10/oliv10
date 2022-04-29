@@ -22,6 +22,6 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 ## Recent contributions on GitHub!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliv10&show_icons=true&count_private=true&hide_title=true&theme=darcula&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv10&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliv10&theme=darcula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliv10&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliv10&theme=darcula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
