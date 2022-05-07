@@ -3,6 +3,7 @@
 I am currently a student at DePaul University in Chicago, IL. I am working towards a major in Sound Design at The Theatre School with minor in Network Technology from the CDM.
 
 ### Current Projects
+- [Scotten Labs Site](https://github.com/Scotten-Labs/.github)
 - [Scotten Sound Site](https://github.com/Scotten-Labs/Scotten-Sound-Site)
 - [Bonanza Bot](https://github.com/Scotten-Labs/Bonanza-Bot)
 - [Is Alive](https://github.com/Scotten-Labs/Is-Alive)
