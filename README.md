@@ -6,7 +6,6 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 - [Scotten Labs Site](https://github.com/Scotten-Labs/.github/tree/main/docs)
 - [Scotten Sound Site](https://github.com/Scotten-Labs/Scotten-Sound-Site)
 - [Bonanza Bot](https://github.com/Scotten-Labs/Bonanza-Bot)
-- [Is Alive](https://github.com/Scotten-Labs/Is-Alive)
 
 ### Hobbies
 - Working on my 1999 BMW E46
