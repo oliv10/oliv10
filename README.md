@@ -6,7 +6,7 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs)
 
 ### Pen Testing Tools
-[EPSS API](https://github.com/Hoplite-Consulting/EPSS-API)
+[Python EPSS API](https://github.com/Hoplite-Consulting/EPSS-API)
 
 ### Hobbies
 - Working on my 1999 BMW E46
