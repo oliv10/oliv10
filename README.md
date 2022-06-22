@@ -2,8 +2,8 @@
 
 I am currently a student at DePaul University in Chicago, IL. I am working towards a major in Sound Design at The Theatre School with minor in Network Technology from the CDM.
 
-### Current Projects
-You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs)
+<!-- ### Current Projects
+You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs) -->
 
 ### Pen Testing Tools
 [Python EPSS API](https://github.com/Hoplite-Consulting/EPSS-API)
