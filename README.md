@@ -8,7 +8,7 @@ You can find the majority of my current projects here at [Scotten Labs](https://
 ### Pen Testing Tools
 - [EPSS CLI](https://github.com/Hoplite-Consulting/EPSS-CLI)
 - [Crackpot CLI](https://github.com/Hoplite-Consulting/Crackpot-CLI)
-- [Pyne](https://github.com/Hoplite-Consulting/Pyne)
+- [Pyne Nessus Parser](https://github.com/Hoplite-Consulting/Pyne)
 
 ### Hobbies
 - Working on my 1999 BMW E46
