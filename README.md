@@ -11,6 +11,9 @@ You can find the majority of my current projects here at [Scotten Labs](https://
   - [Vulnage](https://github.com/Hoplite-Consulting/Vulnage)
   - [EPSS CLI](https://github.com/Hoplite-Consulting/EPSS-CLI)
   - [Crackpot CLI](https://github.com/Hoplite-Consulting/Crackpot-CLI)
+  
+ ### Usefull Tools
+ - [Git Thief]()
 
 ### Hobbies
 - Working on my 1999 BMW E46
