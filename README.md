@@ -12,8 +12,8 @@ You can find the majority of my current projects here at [Scotten Labs](https://
   - [EPSS CLI](https://github.com/Hoplite-Consulting/EPSS-CLI)
   - [Crackpot CLI](https://github.com/Hoplite-Consulting/Crackpot-CLI)
   
- ### Usefull Tools
- - [Git Thief](https://github.com/oliv10/GitThief)
+ ### Useful Tools
+ - [GitThief](https://github.com/oliv10/GitThief)
 
 ### Hobbies
 - Working on my 1999 BMW E46
