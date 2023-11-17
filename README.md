@@ -11,12 +11,16 @@ You can find the majority of my current projects here at [Scotten Labs](https://
   - [Vulnage](https://github.com/Hoplite-Consulting/Vulnage)
   - [EPSS CLI](https://github.com/Hoplite-Consulting/EPSS-CLI)
   - [Crackpot CLI](https://github.com/Hoplite-Consulting/Crackpot-CLI)
+ 
+### Pen Testing Containers
+- [KParrot](https://github.com/oliv10/KParrot) Custom Docker version of Parrot Security that can be run on any system.
+- [KustomKali](https://github.com/oliv10/KustomKali) Custom Docker version of Kali Linux with a handfull of pre-installed tools and metapackages.
   
  ### Useful Tools
  - [GitThief](https://github.com/oliv10/GitThief)
 
 ### Hobbies
-- Working on my 1999 BMW E46
+- Working on my multiple BMW E46's
 - Building out my HomeLab
 - Playing Video Games with Friends
 - Listening to a LOT of Music
@@ -35,4 +39,4 @@ You can find the majority of my current projects here at [Scotten Labs](https://
 <!-- [![Mathias' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliv10&theme=darcula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Note on my repos!
-Repos created after May 2022 will include a .devcontainer/ folder that allows the user to spin up a docker container with all the requierments installed to develop and run the application. I do my work in VS Code so I can easily start these containers by adding the Docker extension to VS Code. Any other VS Code settings will show up in the .vscode/ folder if it exists.
+Repos created after May 2022 will usually include a .devcontainer/ folder that allows the user to spin up a docker container with all the requierments installed to develop and run the application. I do my work in VS Code so I can easily start these containers by adding the Docker extension to VS Code. Any other VS Code settings will show up in the .vscode/ folder if it exists.
