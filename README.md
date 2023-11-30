@@ -18,6 +18,7 @@ You can find the majority of my current projects here at [Scotten Labs](https://
   
  ### Useful Tools
  - [GitThief](https://github.com/oliv10/GitThief)
+ - [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
 
 ### Hobbies
 - Working on my multiple BMW E46's
