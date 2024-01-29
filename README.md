@@ -17,6 +17,7 @@ You can find the majority of my current projects here at [Scotten Labs](https://
 - [KustomKali](https://github.com/oliv10/KustomKali) Custom Docker version of Kali Linux with a handfull of pre-installed tools and metapackages.
   
  ### Useful Tools
+ - [GitKeys](https://github.com/oliv10/GitKeys)
  - [GitThief](https://github.com/oliv10/GitThief)
  - [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
 
