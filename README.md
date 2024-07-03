@@ -2,8 +2,9 @@
 
 I am currently a student at DePaul University in Chicago, IL. I am working towards a major in Sound Design at The Theatre School with minor in Network Technology from the CDM.
 
-<!-- ### Current Projects
-You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs) -->
+### Current Projects
+<!-- You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs) -->
+[FastAuth](https://github.com/oliv10/FastAuth) A FastAPI authentication framework.
 
 ### Pen Testing Tools
 - [Pyne Tools](https://github.com/Hoplite-Consulting/PyneTools) (Installer for Below Tools)
@@ -15,11 +16,13 @@ You can find the majority of my current projects here at [Scotten Labs](https://
 ### Pen Testing Containers
 - [KParrot](https://github.com/oliv10/KParrot) Custom Docker version of Parrot Security that can be run on any system.
 - [KustomKali](https://github.com/oliv10/KustomKali) Custom Docker version of Kali Linux with a handfull of pre-installed tools and metapackages.
-  
- ### Useful Tools
- - [GitKeys](https://github.com/oliv10/GitKeys)
- - [GitThief](https://github.com/oliv10/GitThief)
- - [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
+
+<!--
+### Useful Tools
+- [GitKeys](https://github.com/oliv10/GitKeys)
+- [GitThief](https://github.com/oliv10/GitThief)
+- [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
+-->
 
 ### Hobbies
 - Working on my multiple BMW E46's
