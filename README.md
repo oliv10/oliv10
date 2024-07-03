@@ -4,7 +4,7 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
 
 ### Current Projects
 <!-- You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs) -->
-[FastAuth](https://github.com/oliv10/FastAuth) A FastAPI authentication framework.
+- [FastAuth](https://github.com/oliv10/FastAuth) A FastAPI authentication framework.
 
 ### Pen Testing Tools
 - [Pyne Tools](https://github.com/Hoplite-Consulting/PyneTools) (Installer for Below Tools)
