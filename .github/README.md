@@ -36,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+<!--
 ### Current Projects
-<!-- You can find the majority of my current projects here at [Scotten Labs](https://github.com/Scotten-Labs) -->
 - [FastAuth](https://github.com/oliv10/FastAuth) A FastAPI authentication framework.
 
 ### Pen Testing Tools
@@ -51,6 +51,7 @@
 - [GitKeys](https://github.com/oliv10/GitKeys)
 - [GitThief](https://github.com/oliv10/GitThief)
 - [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
+-->
 
 ###
 
