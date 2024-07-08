@@ -12,17 +12,18 @@ I am currently a student at DePaul University in Chicago, IL. I am working towar
   - [Vulnage](https://github.com/Hoplite-Consulting/Vulnage)
   - [EPSS CLI](https://github.com/Hoplite-Consulting/EPSS-CLI)
   - [Crackpot CLI](https://github.com/Hoplite-Consulting/Crackpot-CLI)
- 
+
+<!--  
 ### Pen Testing Containers
 - [KParrot](https://github.com/oliv10/KParrot) Custom Docker version of Parrot Security that can be run on any system.
 - [KustomKali](https://github.com/oliv10/KustomKali) Custom Docker version of Kali Linux with a handfull of pre-installed tools and metapackages.
+ -->
 
-<!--
 ### Useful Tools
 - [GitKeys](https://github.com/oliv10/GitKeys)
 - [GitThief](https://github.com/oliv10/GitThief)
 - [Server Setup Scripts](https://github.com/oliv10/ServerSetup)
--->
+
 
 ### Hobbies
 - Working on my multiple BMW E46's
